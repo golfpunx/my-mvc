@@ -1,0 +1,586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"compa",
+				"company"
+			],
+			[
+				"fi",
+				"fieldUpdate"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"comp",
+				"companyModel"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fied",
+				"fieldNames"
+			],
+			[
+				"has",
+				"hash_init"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bod",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"package controll",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pracan/Workspace/my-mvc",
+		"/Users/pracan/Workspace/my-mvc/controllers",
+		"/Users/pracan/Workspace/my-mvc/important",
+		"/Users/pracan/Workspace/my-mvc/libs",
+		"/Users/pracan/Workspace/my-mvc/models",
+		"/Users/pracan/Workspace/my-mvc/public",
+		"/Users/pracan/Workspace/my-mvc/public/css",
+		"/Users/pracan/Workspace/my-mvc/public/fonts",
+		"/Users/pracan/Workspace/my-mvc/public/images",
+		"/Users/pracan/Workspace/my-mvc/public/js",
+		"/Users/pracan/Workspace/my-mvc/public/less",
+		"/Users/pracan/Workspace/my-mvc/util"
+	],
+	"file_history":
+	[
+		"/Users/pracan/Workspace/tomcat7test/webapps/jhos/js/menu.js",
+		"/Users/pracan/Workspace/MENU_JHOS/index.php",
+		"/Users/pracan/Workspace/MENU_JHOS/header.php",
+		"/Users/pracan/Workspace/MENU_JHOS/7test/header.php",
+		"/Users/pracan/Workspace/billnote/views/dashboard/less/dashboard-mobile.less",
+		"/Users/pracan/Workspace/finance/public/less/style.less",
+		"/Users/pracan/Workspace/finance/public/less/mobile.less",
+		"/Users/pracan/Workspace/finance/controllers/dashboard.php",
+		"/Users/pracan/Workspace/finance/views/listbillnote/index.php",
+		"/Users/pracan/Workspace/finance/libs/Database.php",
+		"/Users/pracan/Workspace/finance/models/listbillnote_model.php",
+		"/Users/pracan/Workspace/finance/controllers/listbillnote.php",
+		"/Users/pracan/Workspace/finance/views/header.php",
+		"/Users/pracan/Workspace/finance/views/dashboard/less/dashboard-desktop.less",
+		"/Users/pracan/Workspace/finance/views/dashboard/less/dashboard-mobile.less",
+		"/Users/pracan/Workspace/finance/public/less/desktop.less",
+		"/Users/pracan/Workspace/finance/views/dashboard/less/dashboard.less",
+		"/Users/pracan/Workspace/finance/util/Auth.php",
+		"/Users/pracan/Workspace/finance/public/js/default.js",
+		"/Users/pracan/Workspace/finance/index.php",
+		"/Users/pracan/Workspace/finance/config.php",
+		"/Users/pracan/Workspace/finance/views/profile/js/profile.js",
+		"/Users/pracan/Workspace/finance/controllers/index.php",
+		"/Users/pracan/Workspace/finance/views/login/index.php",
+		"/Users/pracan/Workspace/finance/views/dashboard/js/dashboard.js",
+		"/Users/pracan/Workspace/finance/libs/Bootstrap.php",
+		"/Users/pracan/Workspace/finance/libs/View.php",
+		"/Users/pracan/Workspace/finance/libs/Upload.php",
+		"/Users/pracan/Workspace/finance/libs/Session.php",
+		"/Users/pracan/Workspace/finance/libs/Model.php",
+		"/Users/pracan/Workspace/finance/libs/Controller.php",
+		"/Users/pracan/Workspace/finance/public/less/tablet.less",
+		"/Users/pracan/Workspace/finance/models/billing_appoint_model.php",
+		"/Users/pracan/Workspace/finance/newfile2.txt",
+		"/Users/pracan/Workspace/finance/models/trans_money_model.php",
+		"/Users/pracan/Workspace/finance/newfile.txt",
+		"/Users/pracan/Workspace/finance/models/user_model.php",
+		"/Users/pracan/Workspace/finance/controllers/profile.php",
+		"/Users/pracan/Workspace/finance/models/profile_model.php",
+		"/Users/pracan/Workspace/finance/views/profile/index.php",
+		"/Users/pracan/Workspace/finance/views/user/index.php",
+		"/Users/pracan/Workspace/finance/models/login_model.php",
+		"/Users/pracan/Workspace/finance/controllers/login.php",
+		"/Users/pracan/Workspace/finance/views/user/edit.php",
+		"/Users/pracan/Workspace/finance/controllers/user.php",
+		"/Users/pracan/Workspace/finance/views/profile/less/profile.less",
+		"/Users/pracan/Workspace/finance/views/dashboard/index.php",
+		"/Users/pracan/Workspace/finance/models/nonce_model.php",
+		"/Users/pracan/Workspace/finance/models/help_model.php",
+		"/Users/pracan/Workspace/finance/models/dashboard_model.php",
+		"/Users/pracan/Workspace/finance/models/company_model.php",
+		"/Users/pracan/Workspace/finance/views/listbillnote/less/billnote.less",
+		"/Users/pracan/Workspace/meter.py",
+		"/Users/pracan/Workspace/finance/controllers/readfile.php",
+		"/Users/pracan/Workspace/finance/controllers/help.php",
+		"/Users/pracan/Workspace/finance/public/less/googlec9b74c1405c7670b.html",
+		"/Applications/AMPPS/www/service.php",
+		"/Users/pracan/Workspace/finance/libs/NonceUtil.php",
+		"/Users/pracan/Workspace/finance/models/Trans_Money_Model.php",
+		"/Users/pracan/Workspace/finance/views/footer.php",
+		"/Users/pracan/Workspace/finance/libs/Nonce.php",
+		"/Users/pracan/Workspace/finance/important/files/43616b2daa4319c96d4e694c8be7fb3e716e1e311497579868",
+		"/Users/pracan/Workspace/finance/public/js/jquery.min.js",
+		"/Users/pracan/Workspace/finance/views/dashboard/css/dashboard.css",
+		"/Users/pracan/Workspace/finance/views/dashboard/js/default.js",
+		"/Users/pracan/Workspace/finance/public/css/style.css",
+		"/Users/pracan/Workspace/finance/controllers/error.php",
+		"/Users/pracan/Workspace/finance/views/error/index.php",
+		"/Users/pracan/Workspace/finance/views/error/less/error.less",
+		"/Users/pracan/Workspace/trans-noti/index.php",
+		"/Users/pracan/Workspace/finance/views/index/js/index.js",
+		"/Users/pracan/Workspace/finance/views/index/index.php",
+		"/Users/pracan/Workspace/finance/.htaccess",
+		"/Users/pracan/Workspace/trans-noti/css/style.css",
+		"/Users/pracan/Workspace/mvc/libs/Database.php",
+		"/Users/pracan/Workspace/mvc/libs/Bootstrap.php",
+		"/Users/pracan/Workspace/mvc/index.php",
+		"/Users/pracan/Workspace/mvc/views/dashboard/js/default.js",
+		"/Users/pracan/Workspace/mvc/controllers/user.php",
+		"/Users/pracan/Workspace/mvc/models/user_model.php",
+		"/Users/pracan/Workspace/mvc/models/dashboard_model.php",
+		"/Users/pracan/Workspace/mvc/.htaccess",
+		"/Users/pracan/Workspace/mvc/controllers/.htaccess",
+		"/Users/pracan/Workspace/mvc/controllers/index.php",
+		"/Users/pracan/Workspace/mvc/views/user/edit.php",
+		"/Users/pracan/Workspace/mvc/controllers/dashboard.php",
+		"/Users/pracan/Workspace/mvc/views/header.php",
+		"/Users/pracan/Workspace/mvc/views/dashboard/index.php",
+		"/Users/pracan/Workspace/mvc/libs/Model.php",
+		"/Users/pracan/Workspace/mvc/models/login_model.php",
+		"/Users/pracan/Workspace/mvc/controllers/login.php",
+		"/Users/pracan/Workspace/mvc/config/paths.php",
+		"/Users/pracan/Workspace/mvc/config/database.php",
+		"/Users/pracan/Workspace/mvc/config/constants.php",
+		"/Users/pracan/Workspace/mvc/config.php",
+		"/Users/pracan/Workspace/mvc/libs/Hash.php",
+		"/Users/pracan/Library/Application Support/Sublime Text 3/Packages/User/WakaTime.sublime-settings",
+		"/Users/pracan/Library/Application Support/Sublime Text 2/Packages/sublime-text-2-php-refactor/sublime-text-2-php-refactor.sublime-settings",
+		"/Users/pracan/Library/Application Support/Sublime Text 2/Packages/User/sublime-text-2-php-refactor.sublime-settings",
+		"/Users/pracan/Workspace/mvc/controllers/error.php",
+		"/Users/pracan/Workspace/mvc/controllers/help.php",
+		"/Users/pracan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pracan/Workspace/mvc/views/user/index.php",
+		"/Users/pracan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pracan/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/pracan/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/pracan/Workspace/mvc/views/user/js/default.js",
+		"/Users/pracan/Workspace/mvc/models/help_model.php",
+		"/Users/pracan/Workspace/mvc/libs/Controller.php",
+		"/Users/pracan/Workspace/mvc/views/error/index.php",
+		"/Users/pracan/Workspace/mvc/views/login/index.php",
+		"/Users/pracan/Workspace/mvc/libs/View.php",
+		"/Users/pracan/Workspace/mvc/views/index/index.php",
+		"/Users/pracan/Workspace/mvc/views/help/index.php",
+		"/Users/pracan/Downloads/Export_model.php",
+		"/Users/pracan/Workspace/mvc/views/footer.php",
+		"/Users/pracan/Workspace/mvc/public/css/style.css",
+		"/Users/pracan/Workspace/test/templates/index.phtml",
+		"/Users/pracan/Workspace/test/src/routes.php",
+		"/Users/pracan/Workspace/test/vendor/composer/autoload_real.php",
+		"/Users/pracan/Workspace/test/vendor/autoload.php",
+		"/Users/pracan/Workspace/test/public/.htaccess",
+		"/Users/pracan/Workspace/test/public/index.php",
+		"/Users/pracan/Workspace/test/vendor/monolog/monolog/src/Monolog/Registry.php",
+		"/Users/pracan/Workspace/test/vendor/monolog/monolog/src/Monolog/Logger.php",
+		"/Users/pracan/Workspace/test/vendor/slim/slim/Slim/App.php",
+		"/Users/pracan/Workspace/cpa/includes/connect.php",
+		"/Users/pracan/Workspace/cpa/preregistration/autoload.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"",
+			"sha1",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#999999",
+			"trackUser(ip,user_id);",
+			"cacdsearch",
+			"dxdate",
+			"simpleDateDB",
+			"simpleDateFormat",
+			"cacdsearch",
+			"simpleDate",
+			"cacdsearch",
+			"menberno",
+			"member",
+			"cscd",
+			"checkcscd",
+			"cacdsearch()",
+			"checkcscd",
+			"checkcscd()",
+			"checkcscd๖๗",
+			"checkcscd",
+			"trackUser",
+			"tracking.php",
+			"track.php",
+			"insertUpdate",
+			"font-size",
+			".title",
+			"color",
+			"font-size",
+			"340",
+			"#FFFFFF",
+			"editSave",
+			"snackbar",
+			"snack",
+			"        \n",
+			"button",
+			"btn",
+			"header.php",
+			"new Database",
+			"echo time",
+			"$user",
+			"model",
+			"models",
+			"<label for=\"\">ชื่อผู้ใช้</label>",
+			"sheet",
+			"xlsx",
+			"xmlsx",
+			"models",
+			"time",
+			"\n\t\t\t\t\t\t\techo $result . \"\\n\";",
+			"map",
+			".map",
+			"z-index",
+			";\n",
+			"md5",
+			"\t\n",
+			"@color",
+			"nav",
+			"error",
+			"ำพพนพ",
+			"users",
+			"icon",
+			"();\n",
+			"font",
+			".map",
+			"map",
+			"call_error",
+			"\n",
+			"date_default_timezone",
+			"$j",
+			"modal",
+			"post_counter",
+			"$j",
+			"% 2",
+			"close",
+			"82",
+			"open",
+			"indent",
+			"height: 40px;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#555555",
+			"//trackUser(ip,user_id);",
+			"spDate",
+			"thFormat",
+			"170",
+			"#FFAAAA",
+			"$username",
+			"",
+			"sheet1",
+			"sheet",
+			"",
+			"sha1",
+			"@main-color",
+			"user",
+			"$this->call_error"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my-mvc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/finance/finance.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
