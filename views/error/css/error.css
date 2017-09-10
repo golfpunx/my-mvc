@@ -1,0 +1,23 @@
+.error {
+  position: absolute;
+  left: 20%;
+  top: 150px;
+  color: #555555;
+}
+.error .code {
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+.error .message {
+  font-size: 1.3em;
+}
+.btn {
+  border: none;
+  cursor: pointer;
+  padding: 1em;
+  margin: 1em;
+  color: #FFFFFF;
+  background: #4286f6;
+  text-align: center;
+}

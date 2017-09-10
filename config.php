@@ -1,6 +1,6 @@
 <?php 
 //slash (/) after a PATH
-define('URL', 'xxx.xxx/');
+define('URL', 'http://my-mvc.local/');
 define('LIBS', 'libs/');
 
 define('DB_TYPE', 'mysql');
